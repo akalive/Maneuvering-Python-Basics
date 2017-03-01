@@ -9,7 +9,7 @@
 **Maneuvering Python: Basics** is a repository of *Python 3* programs put together so as to facilitate a quick and easy dive into learning the language. 
 
 Programs | What it is
------------------------
+---------|-------------
 Fizz buzz |  A Basic Word Game 
 Greeting |  Greeting on Console after it takes a name
 Pyramid | Prints a Pyramid
